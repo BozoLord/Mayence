@@ -198,6 +198,12 @@ body > section {
   display: inline-block;
 }
 
+.top-number span:after{
+    content:" "; 
+    display:inline-block; 
+    width:32px;
+}
+
 .social{
   text-align: right;
 }
